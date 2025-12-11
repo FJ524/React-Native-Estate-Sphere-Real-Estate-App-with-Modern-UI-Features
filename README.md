@@ -34,23 +34,7 @@ Welcome to **Binary-Shade**, a modern real estate app built with **React Native*
 Follow these steps to set up the app on your local machine:
 ### Prerequisites
 
-1. Install [Node.js](https://nodejs.org/).
-2. Install [Expo CLI](https://expo.dev/):
-   ```bash
-   npm install -g expo-cli
-   ```
-3. Clone the repository:
-   ```bash
-   git clone https://github.com/Binary-Shade/React_native-estate-sphere.git
-   ```
-4. Navigate to the project directory:
-   ```bash
-   cd React_native-estate-sphere
-   ```
-5. Install dependencies:
-   ```bash
-   npm install
-   ```
+
 
 ### Running the App
 
@@ -81,33 +65,7 @@ React_native-estate-sphere/
 - **3D Virtual Tours:** Enable virtual property walkthroughs.
 - **Analytics:** Add user behavior analytics for better insights.
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "commit message"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-- **Repository Link:** [Binary-Shade/React_native-estate-sphere](https://github.com/Binary-Shade/React_native-estate-sphere.git)
-- **Author:** [Suresh K](https://github.com/Binary-Shade)
 
 Feel free to reach out for any questions or feedback!
 
